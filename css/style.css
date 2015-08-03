@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Istok Web', sans-serif;
-  background: url(../img/braun_radio.jpg) no-repeat left fixed;
+  background: url(../img/braun_radio_copy.jpg) no-repeat left fixed;
   background-size: 1100px;
 
 
@@ -45,6 +45,7 @@ h1 {
    clear: top;
    line-height: 59px;
    padding-bottom: 30px;
+   white-space: nowrap;
 
 }
 h2 {
@@ -58,11 +59,13 @@ h2 {
    margin-top: -117px;
    padding-bottom: 80px;
    color: rgba(255,0,0,.4);
+   white-space: nowrap;
 }
 img {
    width: 90px;
    padding-left: 210px;
    float:top;
+
 }
 span:nth-of-type(1) {
    letter-spacing: 5px;
