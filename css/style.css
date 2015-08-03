@@ -1,0 +1,75 @@
+@import url(http://fonts.googleapis.com/css?family=Istok+Web:400,700|Lato:900,700);
+
+body {
+  font-family: 'Istok Web', sans-serif;
+  background: url(../img/braun_radio.jpg) no-repeat left fixed;
+  background-size: 1100px;
+
+
+}
+.numbers {
+   font-family:'Lato', sans-serif;
+   font-size: 100px;
+   letter-spacing: 8px;
+   padding-bottom: -15px;
+   margin-left: 220px;
+   color: white;
+   margin-top: -110px;
+   clear: right;
+}
+.parentcontainer {
+   width: 1200px;
+}
+a:link {
+   text-decoration: none;
+   color: rgba(0,0,0,.7);
+}
+a:hover {
+   color:rgba(255,0,0,.4);
+}
+a:visited {
+   text-decoration: none;
+   color: rgba(0,0,0,.7);
+
+}
+
+#container {
+   min-width:1200px;
+   max-width: 1200px;
+}
+h1 {
+   font-size: 50px;
+   padding-left: 15px;
+   padding-top: 20px;
+   color: rgba(0,0,0,.9);
+   clear: top;
+   line-height: 59px;
+   padding-bottom: 30px;
+
+}
+h2 {
+
+   font-size: 26px;
+   font-family: 'Istok Web', sans-serif;
+   color: rgba(0,0,0,.9);
+   line-height: 30px;
+   letter-spacing: .1px;
+   padding-left: 785px;
+   margin-top: -71px;
+}
+img {
+   width: 90px;
+   padding-left: 210px;
+   float:top;
+}
+span:nth-of-type(1) {
+   letter-spacing: 5px;
+   margin-left: 80px;
+}
+span:nth-of-type(2){
+   letter-spacing: 4px
+}
+span:nth-of-type(3) {
+   margin-left:5px;
+   letter-spacing: 20px;
+}
